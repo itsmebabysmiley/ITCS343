@@ -1,0 +1,60 @@
+Sting enters the rumble at slot 1
+Batista enters the rumble at slot 2
+Big Show enters the rumble at slot 3
+Bret Hart enters the rumble at slot 4
+Dean Ambrose enters the rumble at slot 5
+Bret Hart is clotheslined out of the ring from slot 3
+Sting is kick out of the ring from slot 0
+Big Show is toss out of the ring from slot 2
+Batista is kick out of the ring from slot 1
+Dean Ambrose is toss out of the ring from slot 4
+Randy Orton enters the rumble at slot 1
+The Undertaker enters the rumble at slot 2
+Sheamus enters the rumble at slot 3
+Kane enters the rumble at slot 4
+Eddie Guerrero enters the rumble at slot 5
+Randy Orton is clotheslined out of the ring from slot 0
+The Undertaker is toss out of the ring from slot 1
+Sheamus is clotheslined out of the ring from slot 2
+Kane is toss out of the ring from slot 3
+Eddie Guerrero is clotheslined out of the ring from slot 4
+diesel enters the rumble at slot 1
+CM Punk enters the rumble at slot 2
+Roman Reigns enters the rumble at slot 3
+Drew McIntyre enters the rumble at slot 4
+Goldberg enters the rumble at slot 5
+diesel is clotheslined out of the ring from slot 0
+Roman Reigns is clotheslined out of the ring from slot 2
+Goldberg is toss out of the ring from slot 4
+Drew McIntyre is toss out of the ring from slot 3
+CM Punk is kick out of the ring from slot 1
+Stone Cold enters the rumble at slot 1
+Bobby Lashley enters the rumble at slot 2
+The Rock enters the rumble at slot 3
+Edge enters the rumble at slot 4
+Chris Jericho enters the rumble at slot 5
+Stone Cold is kick out of the ring from slot 0
+Edge is toss out of the ring from slot 3
+Bobby Lashley is kick out of the ring from slot 1
+Chris Jericho is clotheslined out of the ring from slot 4
+The Rock is toss out of the ring from slot 2
+John Cena enters the rumble at slot 1
+Hulk Hogan enters the rumble at slot 2
+Seth Rollins enters the rumble at slot 3
+AJ Styles enters the rumble at slot 4
+Brock Lesnar enters the rumble at slot 5
+AJ Styles is toss out of the ring from slot 3
+John Cena is toss out of the ring from slot 0
+Brock Lesnar is toss out of the ring from slot 4
+Hulk Hogan is toss out of the ring from slot 1
+Seth Rollins is kick out of the ring from slot 2
+Shawn Michaels enters the rumble at slot 1
+Triple H enters the rumble at slot 2
+Kurt Angle enters the rumble at slot 3
+Ric Flair enters the rumble at slot 4
+Yokozuna enters the rumble at slot 5
+Kurt Angle is kick out of the ring from slot 2
+Ric Flair is toss out of the ring from slot 3
+Shawn Michaels is toss out of the ring from slot 0
+Yokozuna is kick out of the ring from slot 4
+the winner of the rumble match is Triple H

@@ -14,7 +14,7 @@ buffer_item buffer[BUFFER_SIZE];    //the buffer
 int counter;                        //buffer counter
 int count_w;                        //count number of wrestler entry the ring.
 int count_r = 30;                   //count number of wrestler who was remove the ring
-int bed = 0;
+int bed = 0;                        //status to sleep or awake
 pthread_t tid1, tid2;               //Thread ID
 pthread_attr_t attr1, attr2;        //Set of thread attributes
 

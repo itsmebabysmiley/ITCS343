@@ -73,7 +73,6 @@ int insert_item(buffer_item item)
         count_w++;                      
         if (counter == 5)               //buffer is full, set bed to sleep mode(1).
         {
-            //printf("full\n");
             bed = 1;
         }
         return 0;
